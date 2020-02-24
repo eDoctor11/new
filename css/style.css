@@ -167,7 +167,9 @@ hr {
 a:hover, a:visited, a:link, a:active {
   text-decoration: none;
 }
-
+a:hover{
+  color: #EAF6F6;
+}
 .contact-me {
   width: 30%;
   margin: auto;
